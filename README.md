@@ -4,12 +4,10 @@ How to Run the Game
 Save the above code in a file named snake_game.py.
 
 Ensure you have Pygame installed. If not, install it using:
-sh
 
 pip install pygame
 
 Run the game by executing the script:
-sh
 
 python snake_game.py
 
