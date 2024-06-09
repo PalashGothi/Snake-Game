@@ -6,13 +6,10 @@ Save the above code in a file named snake_game.py.
 Ensure you have Pygame installed. If not, install it using:
 sh
 
-Copy code
-
 pip install pygame
 
 Run the game by executing the script:
 sh
-Copy code
 
 python snake_game.py
 
